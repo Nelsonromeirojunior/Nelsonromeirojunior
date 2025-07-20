@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Nelson Romeiro da Cunha Junior 👋</h1>
+<h1 align="center">Olá! Eu sou o Nelson Romeiro da Cunha Junior 👋🏻</h1>
 
 <p align="center">
 Desenvolvedor Front-End Júnior com foco em <strong>Acessibilidade</strong>, <strong>Libras</strong> e <strong>Inclusão</strong> 💙<br>
@@ -21,11 +21,10 @@ Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 
 ### 👨‍💻 Sobre mim
 
-- 👂 Pessoa surda com implante coclear  
+- 🦻🏻 Pessoa surda com implante coclear  
 - 🎓 Técnico em Informática  
 - 🎓 Bacharel em Análise e Desenvolvimento de Sistemas  
 - 🎓 Pós-graduação em Engenharia de Software  
-- 💼 Trabalho na Unilever como Inspetor de Qualidade  
 - 🚀 Estudando Front-End com foco em Libras e acessibilidade digital  
 - 🌐 Meu primeiro site: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
 
@@ -80,12 +79,21 @@ Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 
 ---
 
-## 🇺🇸 Hello! I'm Nelson Junior
+## 🇺🇸 Hello! I'm Nelson Junior 👋🏻
 
 Junior Front-End Developer focused on **Accessibility**, **Libras**, and **Inclusion** 💙  
 Graduated in Software Engineering. Passionate about technology and inclusive design.
 
+### 👨‍💻 About me
+
+- 🦻🏻 I'm a deaf person with cochlear implant  
+- 🎓 Technical Degree in Computer Science  
+- 🎓 Bachelor in Systems Analysis and Development  
+- 🎓 Postgraduate in Software Engineering   
+- 🚀 Studying Front-End development with Libras support  
+- 🌐 My first website: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
+
 ---
 
 ⭐ Obrigado por visitar meu perfil!  
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!e!
