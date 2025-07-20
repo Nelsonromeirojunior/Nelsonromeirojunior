@@ -5,17 +5,36 @@ Desenvolvedor Front-End Júnior com foco em <strong>Acessibilidade</strong>, <st
 Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 </p>
 
+<p align="center">
+  <a href="mailto:nelson.romeiro.junior@hotmail.com">
+    <img src="https://img.shields.io/badge/email-%23DD4B39.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nelson-romeiro-junior-5933263a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
+  </a>
+  <a href="https://www.devlibrasjunior.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Site-Pessoal-blue?style=for-the-badge" alt="site badge"/>
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 👂 Sou uma pessoa surda com implante coclear  
+- 👂 Pessoa surda com implante coclear  
 - 🎓 Técnico em Informática  
 - 🎓 Bacharel em Análise e Desenvolvimento de Sistemas  
 - 🎓 Pós-graduação em Engenharia de Software  
 - 💼 Trabalho na Unilever como Inspetor de Qualidade  
 - 🚀 Estudando Front-End com foco em Libras e acessibilidade digital  
 - 🌐 Meu primeiro site: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
+
+---
+
+### ✨ Frase pessoal
+
+> 💙 Acredito que a tecnologia pode e deve ser **acessível para todos**, incluindo a comunidade surda.  
+> Vamos construir o futuro com inclusão e respeito!
 
 ---
 
@@ -30,25 +49,43 @@ Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelsonromeirojunior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nelsonromeirojunior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelsonromeirojunior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nelsonromeirojunior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" />
 </div>
 
 ---
 
-### 🌐 Redes Sociais
+### 📱 Redes Sociais
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/nelson-romeiro-junior-5933263a/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
+  </a>
+  <a href="https://wa.me/5519996525914" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+  </a>
 </div>
 
 ---
 
+### 🕹️ Gráfico de Contribuições (Pac-Man)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nelsonromeirojunior/Nelsonromeirojunior/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nelsonromeirojunior/Nelsonromeirojunior/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nelsonromeirojunior/Nelsonromeirojunior/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nelsonromeirojunior.Nelsonromeirojunior&" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nelsonromeirojunior.Nelsonromeirojunior&" alt="visit badge" />
 </div>
 
 ---
@@ -57,16 +94,6 @@ Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 
 Junior Front-End Developer focused on **Accessibility**, **Libras**, and **Inclusion** 💙  
 Graduated in Software Engineering. Passionate about technology and inclusive design.
-
-### 👨‍💻 About me
-
-- 👂 I'm a deaf person with cochlear implant  
-- 🎓 Technical Degree in Computer Science  
-- 🎓 Bachelor in Systems Analysis and Development  
-- 🎓 Postgraduate in Software Engineering  
-- 💼 Working at Unilever as Quality Inspector  
-- 🚀 Studying Front-End development with Libras support  
-- 🌐 My first website: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
 
 ---
 
