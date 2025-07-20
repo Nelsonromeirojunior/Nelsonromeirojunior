@@ -1,6 +1,10 @@
 <h1 align="center">Olá! Eu sou o Nelson Romeiro da Cunha Junior 👋</h1>
 
 <p align="center">
+  <img src="A_professional_banner_designed_as_a_GitHub_profile.png" alt="Banner Nelson Romeiro Junior" />
+</p>
+
+<p align="center">
 Desenvolvedor Front-End Júnior com foco em <strong>Acessibilidade</strong>, <strong>Libras</strong> e <strong>Inclusão</strong> 💙<br>
 Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 </p>
