@@ -1,10 +1,6 @@
 <h1 align="center">Olá! Eu sou o Nelson Romeiro da Cunha Junior 👋</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1NGMXQWlA0KexB4GPnC0zSfz6RdurxtF1/view?usp=drive_link" alt="Banner Nelson Romeiro Junior" />
-</p>
-
-<p align="center">
 Desenvolvedor Front-End Júnior com foco em <strong>Acessibilidade</strong>, <strong>Libras</strong> e <strong>Inclusão</strong> 💙<br>
 Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 </p>
