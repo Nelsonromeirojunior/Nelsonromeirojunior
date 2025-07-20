@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Nelson Romeiro da Cunha Junior 👋</h1>
 
-<!--
-**Nelsonromeirojunior/Nelsonromeirojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desenvolvedor Front-End Júnior com foco em <strong>Acessibilidade</strong>, <strong>Libras</strong> e <strong>Inclusão</strong> 💙<br>
+Cursando Pós-graduação em Engenharia de Software e apaixonado por tecnologia!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+- 👂 Sou uma pessoa surda com implante coclear
+- 👨‍🎓 Pós-graduado em Engenharia de Software  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🚀 Estudando Front-End com foco em Libras e acessibilidade digital  
+- 🌐 Meu primeiro site: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
+
+---
+
+### 🛠️ Minhas Habilidades
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,github,vscode" alt="Skills" />
+</p>
+
+---
+
+### 📫 Contato
+
+- 📧 E-mail: nelson.romeiro.junior@hotmail.com  
+- 📱 WhatsApp (PCD): (19) 99652-5914  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nelson-romeiro-junior-5933263a/)
+
+---
+
+## 🇺🇸 Hello! I'm Nelson Junior
+
+Junior Front-End Developer focused on **Accessibility**, **Libras**, and **Inclusion** 💙  
+Graduated in Software Engineering. Passionate about technology and inclusive design.
+
+### 👨‍💻 About me
+
+- 👂 I'm a deaf person with cochlear implant  
+- 🎓 Graduated in Software Engineering   
+- 🚀 Studying Front-End development with Libras support  
+- 🌐 My first website: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
+
+### 🛠️ My Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,github,vscode" alt="Skills" />
+</p>
+
+### 📫 Contact
+
+- 📧 E-mail: nelson.romeiro.junior@hotmail.com  
+- 📱 WhatsApp (PCD): +55 19 99652-5914  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nelson-romeiro-junior-5933263a/)
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+⭐ Thanks for visiting my profile!
