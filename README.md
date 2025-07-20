@@ -10,9 +10,10 @@ Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 ### 👨‍💻 Sobre mim
 
 - 👂 Sou uma pessoa surda com implante coclear  
-- 👨‍🎓 Formação Técnica em Informática  
+- 🎓 Técnico em Informática  
 - 🎓 Bacharel em Análise e Desenvolvimento de Sistemas  
-- 🎓 Pós-graduado em Engenharia de Software   
+- 🎓 Pós-graduação em Engenharia de Software  
+- 💼 Trabalho na Unilever como Inspetor de Qualidade  
 - 🚀 Estudando Front-End com foco em Libras e acessibilidade digital  
 - 🌐 Meu primeiro site: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
 
@@ -26,11 +27,39 @@ Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 
 ---
 
-### 📫 Contato
+### 📈 GitHub Stats
 
-- 📧 E-mail: nelson.romeiro.junior@hotmail.com  
-- 📱 WhatsApp (PCD): (19) 99652-5914  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nelson-romeiro-junior-5933263a/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelsonromeirojunior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nelsonromeirojunior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### 🌐 Redes Sociais
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+---
+
+### 🕹️ Gráfico Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nelsonromeirojunior/Nelsonromeirojunior/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nelsonromeirojunior/Nelsonromeirojunior/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nelsonromeirojunior/Nelsonromeirojunior/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nelsonromeirojunior.Nelsonromeirojunior&" alt="visitor badge" />
+</div>
 
 ---
 
@@ -44,21 +73,10 @@ Graduated in Software Engineering. Passionate about technology and inclusive des
 - 👂 I'm a deaf person with cochlear implant  
 - 🎓 Technical Degree in Computer Science  
 - 🎓 Bachelor in Systems Analysis and Development  
-- 🎓 Postgraduate in Software Engineering    
+- 🎓 Postgraduate in Software Engineering  
+- 💼 Working at Unilever as Quality Inspector  
 - 🚀 Studying Front-End development with Libras support  
 - 🌐 My first website: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
-
-### 🛠️ My Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,github,vscode" alt="Skills" />
-</p>
-
-### 📫 Contact
-
-- 📧 E-mail: nelson.romeiro.junior@hotmail.com  
-- 📱 WhatsApp (PCD): +55 19 99652-5914  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nelson-romeiro-junior-5933263a/)
 
 ---
 
