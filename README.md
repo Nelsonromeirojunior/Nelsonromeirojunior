@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Nelson Romeiro da Cunha Junior 👋</h1>
 
 <p align="center">
-  <img src="A_professional_banner_designed_as_a_GitHub_profile.png" alt="Banner Nelson Romeiro Junior" />
+  <img src="https://drive.google.com/file/d/1NGMXQWlA0KexB4GPnC0zSfz6RdurxtF1/view?usp=drive_link" alt="Banner Nelson Romeiro Junior" />
 </p>
 
 <p align="center">
