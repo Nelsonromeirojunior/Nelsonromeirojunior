@@ -2,16 +2,17 @@
 
 <p align="center">
 Desenvolvedor Front-End Júnior com foco em <strong>Acessibilidade</strong>, <strong>Libras</strong> e <strong>Inclusão</strong> 💙<br>
-Cursando Pós-graduação em Engenharia de Software e apaixonado por tecnologia!
+Pós-graduado em Engenharia de Software e apaixonado por tecnologia!
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 👂 Sou uma pessoa surda com implante coclear
-- 👨‍🎓 Pós-graduado em Engenharia de Software  
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 👂 Sou uma pessoa surda com implante coclear  
+- 👨‍🎓 Formação Técnica em Informática  
+- 🎓 Bacharel em Análise e Desenvolvimento de Sistemas  
+- 🎓 Pós-graduado em Engenharia de Software   
 - 🚀 Estudando Front-End com foco em Libras e acessibilidade digital  
 - 🌐 Meu primeiro site: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
 
@@ -41,7 +42,9 @@ Graduated in Software Engineering. Passionate about technology and inclusive des
 ### 👨‍💻 About me
 
 - 👂 I'm a deaf person with cochlear implant  
-- 🎓 Graduated in Software Engineering   
+- 🎓 Technical Degree in Computer Science  
+- 🎓 Bachelor in Systems Analysis and Development  
+- 🎓 Postgraduate in Software Engineering    
 - 🚀 Studying Front-End development with Libras support  
 - 🌐 My first website: [www.devlibrasjunior.com.br](https://www.devlibrasjunior.com.br)
 
